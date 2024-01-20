@@ -1,0 +1,159 @@
+[2014.06.01 22:08:11] [0000m.00s.093ms] [0] WELCOME
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] iCDB Server ver.1.094, a0HSsGQ+3llE3aODnNgIUw, build:515009 created 2012-08-09 08:10:43, sources stamp:a0HSsGQ+3llE3aODnNgIUw
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] Base flow version [7.9.4]
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] GBS Install Id [27413], Flow Id [PADS 9.5], Full Flow Name [PADS 9.5], Exact Access Date [Jun 1 2012]
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] Machine [WS1]  User [Joro]  PID [6124]
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] Operating system [Microsoft Windows 7 Ultimate Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] Current working dir [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01]
+[2014.06.01 22:08:11] [0000m.00s.095ms] [1] PATH [C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\OpenVPN\bin;C:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;C:\Cadence\SPB_16.5\tools\Capture;C:\Cadence\SPB_16.5\tools\PSpice\Library;C:\Cadence\SPB_16.5\tools\PSpice;C:\Cadence\SPB_16.5\tools\specctra\bin;C:\Cadence\SPB_16.5\tools\fet\bin;C:\Cadence\SPB_16.5\tools\libutil\bin;C:\Cadence\SPB_16.5\tools\bin;C:\Cadence\SPB_16.5\tools\pcb\bin;;C:\MentorGraphics\9.5PADS\SDD_HOME\wv\win32\bin]
+[2014.06.01 22:08:11] [0000m.00s.096ms] [1] SDD_HOME [C:\MentorGraphics\9.5PADS\SDD_HOME] on file system [NTFS]
+[2014.06.01 22:08:11] [0000m.00s.096ms] [1] SDD_PLATFORM [win32]
+[2014.06.01 22:08:11] [0000m.00s.096ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\9.5PADS\SDD_HOME\standard]
+[2014.06.01 22:08:11] [0000m.00s.096ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2014.06.01 22:08:11] [0000m.00s.096ms] [2] S: Loading config files
+[2014.06.01 22:08:11] [0000m.00s.102ms] [1] Config file [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\database\cdbsvr\Server.cfg] not found
+[2014.06.01 22:08:11] [0000m.00s.106ms] [3] S: Config loaded
+[2014.06.01 22:08:11] [0000m.00s.109ms] [0] S: Project path [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\database] on file system [NTFS]
+[2014.06.01 22:08:11] [0000m.00s.109ms] [0] S: Project file (.prj) path [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\Goldstrike1_Rev01.prj] on file system [NTFS]
+[2014.06.01 22:08:11] [0000m.00s.109ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2014.06.01 22:08:11] [0000m.00s.110ms] [0] S: Single-user mode (auto)
+[2014.06.01 22:08:11] [0000m.00s.110ms] [0] S: Event polling mode autodetection
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] S: Started up automatically by iCDB Client: WS1:Joro:4808
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] S: Auto close mode
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] S: Database ID [bb76-7a25-4b70-c347-7987-b83c-987b-8350-fa1f-ccc5-1646-86c5]
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: BEGIN dumping
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: Local -> global path prefix list
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: [C:\Windows\system32\spool\drivers] -> [\\WS1\print$]
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: [Lexmark 2600 Series,LocalsplOnly] -> [\\WS1\Lexmark 2600 Series]
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: [D:\Projects\cad_libraries] -> [\\WS1\cad_libraries]
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: [D:\Install\Software\PCB] -> [\\WS1\PCB]
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: [D:\Install\Software] -> [\\WS1\Software]
+[2014.06.01 22:08:11] [0000m.00s.121ms] [0] PathTranslator: [C:\Users] -> [\\WS1\Users]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [E:\] -> [\\WS1\E]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: Global -> local path prefix list
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [\\WS1\Lexmark 2600 Series] -> [Lexmark 2600 Series,LocalsplOnly]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [\\WS1\cad_libraries] -> [D:\Projects\cad_libraries]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [\\WS1\Software] -> [D:\Install\Software]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [\\WS1\print$] -> [C:\Windows\system32\spool\drivers]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [\\WS1\Users] -> [C:\Users]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [\\WS1\PCB] -> [D:\Install\Software\PCB]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: [\\WS1\E] -> [E:\]
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] PathTranslator: END dumping
+[2014.06.01 22:08:11] [0000m.00s.122ms] [0] S: START
+[2014.06.01 22:08:11] [0000m.00s.123ms] [0] S: Server startup lock file created
+[2014.06.01 22:08:11] [0000m.00s.126ms] [0] S: Listening for client connections on port [10001]
+[2014.06.01 22:08:14] [0000m.02s.731ms] [0] S: Server network ID [WS1:sams,sams.nikonimaging.com:10001]
+[2014.06.01 22:08:14] [0000m.02s.731ms] [0] S: Server GUID [b813-5d03-79ad-4f09-b1a7-b830-2a7b-8350-3e10-dcc5-1646-86c5]
+[2014.06.01 22:08:14] [0000m.02s.731ms] [0] S: Project GUID [bb76-7a25-4b70-c347-7987-b83c-987b-8350-fa1f-ccc5-1646-86c5]
+[2014.06.01 22:08:14] [0000m.02s.735ms] [0] S: Wrote data to server address file
+[2014.06.01 22:08:14] [0000m.02s.735ms] [0] S: Server startup lock file removed
+[2014.06.01 22:08:14] [0000m.02s.736ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\Goldstrike1_Rev01.prj]
+[2014.06.01 22:08:14] [0000m.02s.985ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2014.06.01 22:08:14] [0000m.02s.986ms] [0] S: Local disc access time: 144 us
+[2014.06.01 22:08:14] [0000m.02s.986ms] [0] S: File server access time: 146 us
+[2014.06.01 22:08:14] [0000m.03s.008ms] [0] Single file [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\database\icdb.dat] size [689648 (673.5 kB)]
+[2014.06.01 22:08:14] [0000m.03s.008ms] [1] Single file [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\database\icdb.dat] opened in read-write mode
+[2014.06.01 22:08:14] [0000m.03s.009ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.06.01 22:08:14] [0000m.03s.009ms] [0] Database GUARD OK: [689648]
+[2014.06.01 22:08:14] [0000m.03s.011ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2014.06.01 22:08:14] [0000m.03s.012ms] [0] Database GUARD OK: [689648]
+[2014.06.01 22:08:14] [0000m.03s.012ms] [0] SingleFile: [102d-ff27-f932-dd5d] SFI version check [1009] [1009]
+[2014.06.01 22:08:14] [0000m.03s.035ms] [0] SingleFile: [102d-ff27-f932-dd5d] Database SFI header has been read in [24ms 362us]
+[2014.06.01 22:08:14] [0000m.03s.041ms] [0] iCDB Server PI: Server & plugin session [9]
+[2014.06.01 22:08:14] [0000m.03s.041ms] [0] iCDB Server PI: Opening database [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\database]
+[2014.06.01 22:08:14] [0000m.03s.041ms] [0] iCDB Server PI: Database [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\database] opened
+[2014.06.01 22:08:14] [0000m.03s.104ms] [0] iCDB Database: Checking existence of constraint definitions
+[2014.06.01 22:08:14] [0000m.03s.104ms] [0] iCDB Database: Checking constraint definitions version
+[2014.06.01 22:08:14] [0000m.03s.231ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=da20-47f3-a578-0e46-9106-153e-1061-5350-ba7f-dcc5-1646-86c5] up to date
+[2014.06.01 22:08:15] [0000m.03s.741ms] [0] iCDB Server PI: Initializing plugins
+[2014.06.01 22:08:15] [0000m.03s.742ms] [0] iCDB Server PI: Plugins initialized
+[2014.06.01 22:08:15] [0000m.03s.742ms] [0] S: iCDB database loaded
+[2014.06.01 22:08:15] [0000m.03s.744ms] [0] S: Starting threads
+[2014.06.01 22:08:15] [0000m.03s.745ms] [0] BT: Listening for broadcast messages on port [10000]
+[2014.06.01 22:08:15] [0000m.03s.746ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2014.06.01 22:08:15] [0000m.03s.748ms] [0] IT: Session [10] for host [WS1] user [Joro] with process ID [4808] created
+[2014.06.01 22:08:15] [0000m.03s.753ms] [1] SC[10]: Registered sub-client [DxD] with ID [1] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:15] [0000m.03s.854ms] [1] CMT: There are [1] clients now: 10
+[2014.06.01 22:08:15] [0000m.04s.010ms] [1] SC[10]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:26] [0000m.14s.583ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [3] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:26] [0000m.14s.590ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [3] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:27] [0000m.15s.457ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [4] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:27] [0000m.15s.461ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [4] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:28] [0000m.16s.470ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [5] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:28] [0000m.16s.474ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [5] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:29] [0000m.17s.483ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [6] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:29] [0000m.17s.486ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [6] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:30] [0000m.18s.497ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [7] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:30] [0000m.18s.500ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [7] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:31] [0000m.19s.512ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [8] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:31] [0000m.19s.518ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [8] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:32] [0000m.20s.525ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [9] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:32] [0000m.20s.528ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [9] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:33] [0000m.21s.539ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [10] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:33] [0000m.21s.542ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [10] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:34] [0000m.22s.554ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [11] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:34] [0000m.22s.557ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [11] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:35] [0000m.23s.435ms] [0] DFAMT: File server access time: 155 us
+[2014.06.01 22:08:35] [0000m.23s.566ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [12] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:35] [0000m.23s.570ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [12] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:36] [0000m.24s.583ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [13] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:36] [0000m.24s.587ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [13] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:37] [0000m.25s.596ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [14] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:37] [0000m.25s.599ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [14] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:38] [0000m.26s.608ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [15] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:38] [0000m.26s.612ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [15] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:39] [0000m.27s.623ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [16] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:39] [0000m.27s.626ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [16] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:40] [0000m.28s.636ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [17] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:40] [0000m.28s.640ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [17] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:41] [0000m.29s.655ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [18] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:41] [0000m.29s.658ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [18] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:42] [0000m.30s.665ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [19] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:42] [0000m.30s.668ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [19] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:43] [0000m.31s.681ms] [0] IT: Session [11] for host [WS1] user [Joro] with process ID [5500] created
+[2014.06.01 22:08:43] [0000m.31s.682ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [20] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:43] [0000m.31s.683ms] [1] SC[11]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [11] host [WS1] user [Joro] process ID [5500]
+[2014.06.01 22:08:43] [0000m.31s.688ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [20] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:43] [0000m.31s.759ms] [1] CMT: There are [2] clients now: 10, 11
+[2014.06.01 22:08:43] [0000m.32s.143ms] [1] SC[11]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [11] host [WS1] user [Joro] process ID [5500]
+[2014.06.01 22:08:43] [0000m.32s.159ms] [1] CMT: Removed client [11]
+[2014.06.01 22:08:43] [0000m.32s.159ms] [1] CMT: There are [1] clients now: 10
+[2014.06.01 22:08:44] [0000m.32s.693ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:44] [0000m.32s.697ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [21] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:45] [0000m.33s.707ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:45] [0000m.33s.711ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [22] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:46] [0000m.34s.721ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:46] [0000m.34s.725ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [23] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:47] [0000m.35s.737ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:47] [0000m.35s.740ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [24] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:48] [0000m.36s.750ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:48] [0000m.36s.753ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [25] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:49] [0000m.37s.763ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:49] [0000m.37s.767ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [26] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:50] [0000m.38s.777ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:50] [0000m.38s.781ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [27] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:51] [0000m.39s.792ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:51] [0000m.39s.795ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [28] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:52] [0000m.40s.806ms] [1] SC[10]: Registered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:52] [0000m.40s.809ms] [1] SC[10]: UnRegistered sub-client [LDD_ECO_IMPORT] with ID [29] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:52] [0000m.41s.266ms] [1] SC[10]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:52] [0000m.41s.284ms] [1] SC[10]: UnRegistered sub-client [DxD] with ID [1] for session ID [10] host [WS1] user [Joro] process ID [4808]
+[2014.06.01 22:08:53] [0000m.41s.451ms] [1] CMT: Removed client [10]
+[2014.06.01 22:08:53] [0000m.41s.451ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2014.06.01 22:08:55] [0000m.43s.325ms] [0] CMT: Starting server auto-close
+[2014.06.01 22:08:55] [0000m.43s.384ms] [0] S: Closing server
+[2014.06.01 22:08:55] [0000m.43s.542ms] [0] iCDB Server PI: Closing plugins
+[2014.06.01 22:08:55] [0000m.43s.542ms] [0] iCDB Server PI: Plugins closed
+[2014.06.01 22:08:55] [0000m.43s.542ms] [0] iCDB Server PI: Unloading database
+[2014.06.01 22:08:55] [0000m.43s.542ms] [0] iCDB Server PI: Saving storage
+[2014.06.01 22:08:55] [0000m.43s.542ms] [0] iCDB Server PI: Closing database
+[2014.06.01 22:08:55] [0000m.43s.608ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[99%]
+[2014.06.01 22:08:55] [0000m.43s.608ms] [1] iCDB Server PI: Stats: Database file size [690168 (674.0 kB)]
+[2014.06.01 22:08:55] [0000m.43s.670ms] [0] iCDB Server PI: Database closed
+[2014.06.01 22:08:55] [0000m.43s.670ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [397] ticks
+[2014.06.01 22:08:55] [0000m.43s.670ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [15] microseconds
+[2014.06.01 22:08:55] [0000m.43s.670ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2014.06.01 22:08:55] [0000m.43s.670ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [125944] commands per second
+[2014.06.01 22:08:55] [0000m.43s.671ms] [0] Single file [D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\database\icdb.dat] closed with size [690168 (674.0 kB)]
+[2014.06.01 22:08:55] [0000m.43s.807ms] [0] S: STOP

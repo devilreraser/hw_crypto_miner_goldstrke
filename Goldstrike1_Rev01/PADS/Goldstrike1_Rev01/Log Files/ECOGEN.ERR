@@ -1,0 +1,19 @@
+PADS Layout ECO Generator (Version 6.4v) 1.6.2014 ã. 22:15:58 ÷.
+Copyright (c) 2003 - 2008 Mentor Graphics Corp. - All rights reserved
+Command line arguments:  -d D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev02.dif -n PowerPCB -o DxDesigner -e D:\Projects\Altium_projects\Goldstrike1_Rev01\PADS\Goldstrike1_Rev01\Log Files\ECOGEN.ERR -r p -a PCB,PART,NET,PIN -l PCB,NET,NETCLASS,GEN,DFP
+5 msec
+19 msec
+Reading the DxDesigner
+There are 674 parts in the design
+There are 193 signals in the design
+There are 3835 pins in the design
+75 msec
+Reading the PowerPCB
+There are 676 parts in the design
+There are 193 signals in the design
+There are 3835 pins in the design
+85 msec
+Final cost=128
+Partitioning - 345 msec
+Final Matching - 270 msec
+Deleted pins: 0,  Added pins: 0
